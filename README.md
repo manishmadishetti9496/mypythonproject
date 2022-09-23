@@ -1,0 +1,2 @@
+# mypythonproject
+THIS IS AN EXAMPLE OF CREATING READ ME FILE.
